@@ -15,7 +15,7 @@ Usage
 
    M-x yas/reload-all
 
-#. you should see vala-mode in the YASnippet menu.   
+#. you should see vala-mode in the YASnippet menu now.   
 
 .. _yasnippet: http://code.google.com/p/yasnippet/
 .. _Vala: http://live.gnome.org/Vala/
