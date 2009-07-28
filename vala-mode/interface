@@ -1,0 +1,6 @@
+#contributor : Darren Hoo <darren.hoo@gmail.com>
+#name : interface ... { ... }
+# --
+interface ${1:Name} {
+			$0								
+}

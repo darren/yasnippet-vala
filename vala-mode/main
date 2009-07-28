@@ -1,0 +1,7 @@
+#contributor : Darren Hoo <darren.hoo@gmail.com>
+#name : main (...) 
+# --
+public static int main(string[] args) {
+        $0
+		return 0;
+}

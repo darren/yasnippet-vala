@@ -1,0 +1,6 @@
+#contributor : Darren Hoo <darren.hoo@gmail.com>
+#name : namespace NameSpaceName { ... }
+# --
+namespace ${1:NameSpaceName} {
+ 		  $0
+}
